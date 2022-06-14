@@ -1,0 +1,6 @@
+<resources>
+    <string name="realm_app_id">app-001-test-fnonr</string>
+    <string name="realm_app_url">https://realm.mongodb.com/groups/62a6f3915f16a24e46dd7a4c/apps/62a6f51417c8a96ff24916a4</string>
+    <string name="realm_base_url">https://realm.mongodb.com</string>
+    <string name="realm_data_source_name">mongodb-atlas</string>
+</resources>

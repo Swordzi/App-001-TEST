@@ -1,0 +1,8 @@
+{
+    "app_id": "app-001-test-fnonr",
+    "config_version": 20210101,
+    "name": "App-001-TEST",
+    "location": "IE",
+    "provider_region": "aws-eu-west-1",
+    "deployment_model": "GLOBAL"
+}
